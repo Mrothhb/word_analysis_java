@@ -1,0 +1,2 @@
+LOOOOOOONNNNGGGG word1 !!!
+nextline word1 WORD1 1234
